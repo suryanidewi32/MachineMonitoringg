@@ -1,0 +1,29 @@
+
+.container2 {
+        width: relative;
+        position: relative;
+        margin:0 auto;
+        line-height: 1.4em;
+        }
+        @media only screen and (max-width: 479px){
+                .container2 { width: 90%; }
+            }
+.headerChart{
+        width:fix;
+        height:fixed;
+}
+.cardfull{
+        display: flex; 
+        flex-flow: row wrap;
+        justify-content: space-around;
+        margin-top: 20px;   
+        } 
+
+.footer {
+        clear: both;
+        position: relative;
+        margin-top: 0%;
+        padding-left: 10px;
+        padding-top: 10px;
+    }
+        

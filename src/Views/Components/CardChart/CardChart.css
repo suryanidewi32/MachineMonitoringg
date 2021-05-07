@@ -1,0 +1,84 @@
+.card-header {
+    color: white;
+    font-style: Arial;
+    font-size: 24px;
+    width: 250px;
+    height: 98px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.33);
+    background: rgba(255, 255, 255, 0.33);
+    padding: 5px 10px;
+    text-align: center;
+    /* padding-left: 40px; */   
+  }
+  
+  .chardrealtime {
+                    
+    border: 1px solid white;    
+    border-radius: 15px;          
+    overflow: hidden;             
+    display: flex;                
+    flex-direction: column;    
+    height: 314px;
+    display: flex;              
+    flex-direction: column;     
+    flex:'1';        
+  }
+
+  /* .card-main {
+    height: 314px;
+    background-color: #EF9A9A;
+    display: flex;              
+    flex-direction: column;             
+    padding: 15px 0; 
+    
+  } */
+
+  .main-description{
+    font-style: 'Segoe UI Semibold';           
+    font-size: 15px;
+    color:white;
+  }
+
+  .container {
+    padding: 2px 16px;
+  }
+
+
+  .col-25 {
+    float: left;
+    width: 90px;
+    padding: 15px 38px 0;
+    margin-top: 12px;
+    padding-left: 10px;
+  }
+  
+  .col-75 {
+    float: left;
+    width: 70px;
+    margin-top: 6px;
+  }
+
+  input[type=text], select, textarea {
+    width: 101px;
+    height: 60px;
+    border: 1px solid #ccc;
+    margin-top: 12px;
+    
+  }
+
+  a{
+    font-style: Arial;
+    font-size: 14px;
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+    margin-top: 18px;
+  }
+
+  h6{
+    font-style: Arial;
+    font-size: 18px;
+    color: white;
+    margin-top: 18px;
+    /* padding-left: 80px; */
+  }

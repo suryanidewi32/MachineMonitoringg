@@ -1,0 +1,15 @@
+.button-link {
+    border: 0;
+    background: none;
+    display: block;
+    margin: 5px auto;
+    margin-top: 5px;
+    text-align: center;
+    font-size: 13px;
+    width: 305px;
+    outline: none;
+    color: white;
+    transition: 0.4s;
+    cursor: pointer;
+    font-weight: bold;
+}

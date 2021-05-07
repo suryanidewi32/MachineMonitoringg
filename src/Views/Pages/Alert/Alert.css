@@ -1,0 +1,32 @@
+.Form-header {
+    background: url("../../Assets//Image//back1.jpg");
+    display: flex;
+    flex-direction: column;
+    font-size: calc(10px + 2vmin);
+    /* background-repeat: no-repeat; */
+  }
+
+  .footerAlert {
+    clear: both;
+    position: relative;
+    margin-top: auto;
+    padding-left: 10px;
+    padding-bottom: 10px;
+ 
+} 
+
+.atasAlert{
+    width:fixed;
+    height:fixed;
+    padding-top: 20px;
+    
+}
+
+.iconCheck{
+  background: url("../../Assets//Icon//check.JPG");
+  width: 50px;
+  height: 40px;
+  background-repeat: no-repeat;
+  margin:auto;
+  margin-top: 20px;
+}

@@ -1,0 +1,22 @@
+.footer {
+  text-align: left;
+  font-family: "Futura Md BT";
+  font-size: 12px;
+  display: flex;
+  flex-direction: row;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  color: black;
+}
+
+
+.logo {
+  background : url("../../Assets//Image//logo2.png"); 
+  /* width: 50px;
+  height: 20px; */
+}
+
+.logo-group{
+  display: flex;
+ }

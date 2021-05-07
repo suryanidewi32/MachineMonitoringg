@@ -1,0 +1,17 @@
+.head{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.head .header {
+  background : url("../../Assets//Image//logo.png");
+  padding: 20px;
+  width: 110px;
+  height: 10px;
+  text-align: center;
+  opacity: 0.9;
+  align-items: center ;
+
+} 

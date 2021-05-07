@@ -1,0 +1,28 @@
+{
+  "name": "modbus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "influx": "^5.8.0",
+    "influxdb-nodejs": "^3.1.0",
+    "jsmodbus": "^4.0.5",
+    "jsonwebtoken": "^8.5.1",
+    "modbus-serial": "^8.0.1",
+    "mongodb": "^3.6.6",
+    "mongoose": "^5.12.3",
+    "nodemailer": "^6.5.0",
+    "nodemon": "^2.0.7",
+    "serialport": "^9.0.7"
+  }
+}

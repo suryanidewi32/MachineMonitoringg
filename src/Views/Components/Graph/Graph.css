@@ -1,0 +1,77 @@
+
+
+
+.buttonBack {
+  background-color: #80c341; /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-style: Arial;
+  cursor: pointer;
+  border-radius: 8px;
+  width: 90px;
+  height: 49px;
+}
+
+.buttonPNG {
+  background-color: #80c341; /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-style: Arial;
+  cursor: pointer;
+  border-radius: 8px;
+  width: 165px;
+  height: 43px;
+  margin-left:1060px;
+}
+
+
+.ButtonItem{
+  align-items: Right;
+  margin-top: 2px;
+  padding-left: 880px;
+}
+
+.chartLine{
+  padding-left: 40px;
+  margin-top: 10px;
+  width : 90vw;
+}
+.buttonRight {
+  background-color: white;/* Green */
+  border: none;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 23px;
+  font-style: Arial;
+  cursor: pointer;
+  width: 60px;
+  height: 32px;
+  align-items: Right;
+  border: 1px solid #80c341;
+}
+
+.buttonDate {
+  background-color: #80c341; /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-style: Arial;
+  width: 115px;
+  height: 32px;
+  border: 1px solid #80c341;
+}
+
+
